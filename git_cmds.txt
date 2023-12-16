@@ -1,0 +1,5 @@
+git init
+
+git add <file_names1> <file_name2>
+git commit -m "your comment"
+git push -u origin master
